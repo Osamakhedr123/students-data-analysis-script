@@ -10,4 +10,4 @@ This is a simple script that will:\
 8- Display basic statistics for each subject grades.\
 9- Search for specific student/subject grade for a specific student.\
 10- Delete student record/ grade for a subject of a student.\
-11- Partition the file into two equal files of data.\
+11- Partition the file into two equal files of data.
